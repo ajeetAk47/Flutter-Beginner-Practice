@@ -1,16 +1,6 @@
-# flutterapp
+# Flutter App
 
-A new Flutter application.
+Demo of Column, row and Containers 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/ajeetAk47/Flutter-Beginner-Practice/blob/master/Flutter%20Column%20%2CRow%20and%20Container%20Demo/Snapshots/snapshot.png" width="300" height="600">
